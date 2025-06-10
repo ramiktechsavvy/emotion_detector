@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ramiktechsavvy/emotion_detector/main/banner.png.png" alt="Facial Emotion Detector" width="100%">
+</p>
+
 # 🎭 Facial Emotion Detector
 
 This project is a real-time facial emotion detection system using a custom 4-layer CNN model trained on a labeled dataset of 7 emotions. It performs accurate prediction using OpenCV + TensorFlow and supports live webcam input.
